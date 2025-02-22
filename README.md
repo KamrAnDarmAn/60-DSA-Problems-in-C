@@ -2,6 +2,7 @@
 
 <br>
 Description:
+<br>
 🚀 Master Data Structures in C! This repository contains 60 essential problems covering Arrays, Linked Lists, and Stacks, each with detailed explanations, pseudocode, C implementations, and complexity analysis. Ideal for DSA preparation, coding interviews, and competitive programming.
 
 📌 Content Outline:
@@ -16,9 +17,9 @@ Description:
 🔹 Learn efficient problem-solving techniques
 🔹 Get ready for technical interviews & coding contests
 
+
 <br>
-<br>
-I decided to include **only pseudocode** to keep the focus on **problem-solving and algorithmic thinking** rather than just syntax. Pseudocode is **language-agnostic**, allowing anyone to **implement solutions in any programming language** while mastering **core logic, efficiency, and DSA concepts**.  
+I decided to include *only pseudocode* to keep the focus on **problem-solving and algorithmic thinking** rather than just syntax. Pseudocode is **language-agnostic**, allowing anyone to *implement solutions in any programming language* while mastering **core logic, efficiency, and DSA concepts**.  
 
 ### 🔥 The Power of Pseudocode:  
 ✅ **Enhances problem-solving skills** by focusing on logic  
@@ -28,7 +29,7 @@ I decided to include **only pseudocode** to keep the focus on **problem-solving 
 
 By mastering pseudocode, you gain the ability to **think like a problem solver**, not just a coder! 🚀
 <br>
-<br>
+
 
 # Comprehensive Notes on Array, Linked List, and Stack Problems in C
 
